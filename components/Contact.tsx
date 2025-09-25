@@ -26,7 +26,7 @@ export default function Contact() {
     setSubmitStatus(null);
 
     try {
-      const response = await axios.post('http://localhost:3000/api/contact',data, {
+      const response = await axios.post('/api/contact',data, {
             headers: { 'Content-Type': 'application/json' },
       });
 
