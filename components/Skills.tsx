@@ -31,7 +31,7 @@ export default function Skills() {
 
   return (
     <motion.div
-      className="text-white px-7 pt-20 my-60 md:my-0 h-[70vh]"
+      className="text-white px-7 pt-20 my-80 md:my-0 h-[70vh]"
       initial="hidden"
       animate="visible"
       variants={containerVariants}
