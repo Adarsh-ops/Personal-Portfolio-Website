@@ -3,7 +3,7 @@ import Skill from "./Skill";
 
 export default function Skills() {
   const skills = [
-    "HTML","CSS","JavaScript","TypeScript","React","Next.js","Tailwind CSS","Node.js","Express.js","MongoDB","PostgreSQL","Prisma ORM","WebSockets",'Git','Github','Monorepo & Turborepo',"C","C++"
+    "HTML","CSS","JavaScript","TypeScript","React","Next.js","Tailwind CSS","Node.js","Express.js","MongoDB","PostgreSQL","Prisma ORM","WebSockets",'Docker','Git','Github','Monorepo & Turborepo',"C","C++"
   ];
 
   // Define variants for the container and individual skills
