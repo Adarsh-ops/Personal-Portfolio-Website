@@ -36,7 +36,7 @@ export default function Project({ project }: ProjectProps) {
       whileHover="hover"
       variants={cardVariants}
     >
-      <div className="flex flex-col bg-gray-800 rounded-2xl p-6 shadow-lg border border-gray-700">
+      <div className="flex flex-col h-full bg-gray-800 rounded-2xl p-6 shadow-lg border border-gray-700">
         {/* Image (assuming it's a URL or placeholder) */}
         <div className="w-full h-48 mb-4 rounded-lg overflow-hidden">
           <Image

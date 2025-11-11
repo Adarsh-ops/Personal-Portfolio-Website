@@ -11,7 +11,7 @@ export default function About(){
         <br />
         <ReactTyped
           strings={[
-            'I\'m Adarsh Nagar, a second-year BSc Computer Science student at St. Xavier\'s College, Kolkata, India. I\'m passionate about web development and skilled in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, TypeScript, WebSockets, PostgreSQL, Prisma ORM and programming languages like C and C++. I\'ve built projects like a Real Time Chat App, Netflix clone, Amazon clone and Paytm Cash App clone showcasing my expertise in creating responsive, full-stack applications.'
+            'I\’m a full-stack developer who loves turning ideas into fast, scalable, and user-friendly web applications. I work with technologies like Next.js, React, Node.js, and TypeScript to build projects that combine clean design with solid functionality.I\’ve built over five projects — including a real-time chat app, a collaborative drawing tool, and a Paytm-like payment app — and contributed to multiple open-source repositories.I was also recognized as a Super Contributor at Hacktoberfest, which encouraged me to keep contributing and collaborating with the developer community. My goal is to keep improving my craft and build products that make an impact.'
           ]}
           typeSpeed={10}
           className="text-purple-300 text-2xl"
