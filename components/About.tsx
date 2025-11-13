@@ -5,7 +5,7 @@ import {motion} from 'framer-motion'
 export default function About(){
 
     return (
-        <motion.div id='about' className="flex flex-col items-center justify-self-start h-[70vh] text-white md:text-4xl text-2xl font-bold font-mono px-7" initial={{ scale: 0 }} animate={{ scale: 1 }}>
+        <motion.div id='about' className="flex flex-col items-center justify-self-start md:h-[70vh] h-[100vh] text-white md:text-4xl text-2xl font-bold font-mono px-7" initial={{ scale: 0 }} animate={{ scale: 1 }}>
       <h1>
         About me: 
         <br />
